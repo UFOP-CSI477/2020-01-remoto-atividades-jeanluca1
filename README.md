@@ -5,7 +5,7 @@
 - Nome:Jean Luca A Canazart
 - Matrícula:18.1.5968
 - Curso:CSI477/11
-- Semestre/Ano correntes:2021
+- Semestre/Ano correntes:2020.1/2021
 - Link para o seu GitHub:
 
 ## [Projeto final:](./Projeto/README.md) 
