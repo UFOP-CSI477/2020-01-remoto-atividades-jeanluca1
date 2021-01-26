@@ -2,10 +2,10 @@
 
 ## Atualize os seus dados:
 
-- Nome:
-- Matrícula:
-- Curso:
-- Semestre/Ano correntes:
+- Nome:Jean Luca A Canazart
+- Matrícula:18.1.5968
+- Curso:CSI477/11
+- Semestre/Ano correntes:2021
 - Link para o seu GitHub:
 
 ## [Projeto final:](./Projeto/README.md) 
